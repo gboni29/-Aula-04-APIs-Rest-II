@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\config\SwaggerConfig.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\ContactsApiApplication.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\controller\AddressController.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\controller\ContactController.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\dto\AddressDTO.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\dto\ContactDTO.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\mapper\AddressMapper.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\mapper\ContactMapper.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\model\Address.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\model\Contact.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\repository\AddressRepository.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\repository\ContactRepository.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\service\AddressService.java
+C:\Users\Aluno\Downloads\contacts-api\src\main\java\br\ifsp\contacts\service\ContactService.java
